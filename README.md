@@ -1,6 +1,6 @@
 # うみの島ガイド
 
-## サイトURL
+## デモサイト
 https://yuna031706.github.io/UminoSite/
 
 ## サイト画面
