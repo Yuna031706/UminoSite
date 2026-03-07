@@ -63,3 +63,5 @@ index.htmlをブラウザで開いてください。
 5コマ（7.5時間）  
 7コマ（10.5時間）
 
+## 作者
+GitHub: https://github.com/yuna031706
